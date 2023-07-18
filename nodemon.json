@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_DB_USER": "referralBuilder",
+    "MONGO_DB_PW": "KP1LByHsD3hRObsF"
+  }
+}
