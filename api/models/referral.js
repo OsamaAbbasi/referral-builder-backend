@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const referralSchema = mongoose.Schema({
   _id: mongoose.Schema.Types.ObjectId,
-  fistName: String,
+  firstName: String,
   lastName: String,
   email: String,
   mobile: String,
